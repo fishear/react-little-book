@@ -1,0 +1,1 @@
+Last version of CommentApp, using react,redux,react-redux.

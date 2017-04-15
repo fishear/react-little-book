@@ -1,0 +1,1 @@
+This is demo trying to implement redux in vanilla js
